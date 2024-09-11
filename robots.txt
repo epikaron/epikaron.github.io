@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://epikaron.github.io/sitemap.html.gz
+Sitemap: https://epikaron.github.io/app/sitemap.html.gz
+Sitemap: https://epikaron.github.io/assets/sitemap.html.gz
+Sitemap: https://epikaron.github.io/css/sitemap.html.gz
+Sitemap: https://epikaron.github.io/includes/sitemap.html.gz
+Sitemap: https://epikaron.github.io/item/sitemap.html.gz
+Sitemap: https://epikaron.github.io/src/sitemap.html.gz
